@@ -4,7 +4,5 @@
 !.gitignore
 !README.md
 !logo*
-!/TESTS/
-
-
+!/TESTS
 
